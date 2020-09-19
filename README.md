@@ -1,5 +1,4 @@
-# AtCoder
-## [@baum](https://atcoder.jp/users/baum)のAtCoderのリポジトリ
+# [@baum](https://atcoder.jp/users/baum)のAtCoderのリポジトリ
 
 [procon-gardener](https://github.com/togatoga/procon-gardener)を使ってAtCoderの提出から自動的にコードを取得しています
 
